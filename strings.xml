@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string-array name="Films">
+        <item>Начало</item>
+        <item>Люди в черном</item>
+        <item>Алладин</item>
+        <item>Железный человек</item>
+        <item>Тор</item>
+        <item>Джокер</item>
+    </string-array>
+    <string name="button_rand">Выбрать фильм</string>
+    <string name="button_drop">Сброс</string>
+</resources>
